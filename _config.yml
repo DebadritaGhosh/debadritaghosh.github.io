@@ -1,1 +1,11 @@
+title: Debadrita Ghosh # my name
+logo: "/profile.png?raw=true" # my photo
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Aspiring FullStack Developer
+  <br><br>
+  <a href="mailto:debadrita.ghosh2010@gmail.com">debadrita.ghosh2010@gmail.com</a>
+  <br>
+  <a href="https://www.linkedin.com/in/itzdebadrita/">LinkedIn Profile</a>
+  <br> 
+  <a href="https://github.com/DebadritaGhosh">Gihub</a> 
 theme: jekyll-theme-minimal
